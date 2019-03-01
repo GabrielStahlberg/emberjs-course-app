@@ -20,6 +20,7 @@ Router.map(function() {
   });
   this.route('events');
   this.route('post');
+  this.route('cars');
 });
 
 export default Router;
