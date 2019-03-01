@@ -20,6 +20,7 @@ export default Controller.extend({
   title: 'My Blog Post',
   body: 'This is the body of my blog',
   authors: ['William', 'Robert', 'Michelle'],
+  created: new Date(),
   comments: [
     {
       name: 'Mike Smith',

@@ -1,6 +1,12 @@
 <h1 {{action "toggleBody"}}>{{title}}</h1>
+<br>
 
-<button {{action "sayHello" on="mouseEnter"}}>Say Hello</button>
+<button {{action "sayHello"}}>Say Hello</button>
+<br><br>
+
+<p>
+  Created on {{format-date created}}
+</p>
 
 {{#if isShowingBody}}
 <p>{{body}}</p>
