@@ -1,20 +1,23 @@
-[
-  {
-    "id": 1,
-    "make": "Honda",
-    "model": "Civic",
-    "year": "2007"
-  },
-  {
-    "id": 2,
-    "make": "Toyota",
-    "model": "Corolla",
-    "year": "2013"
-  },
-  {
-    "id": 3,
-    "make": "Ford",
-    "model": "Fusion",
-    "year": "2002"
-  }
-]
+{
+  "cars":
+  [
+    {
+      "id": 1,
+      "make": "Honda",
+      "model": "Civic",
+      "year": "2007"
+    },
+    {
+      "id": 2,
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": "2013"
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "model": "Fusion",
+      "year": "2002"
+    }
+  ]
+}
